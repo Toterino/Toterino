@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Toterino
-- 🌱 I’m currently learning web development using known frameworks
+- 🌱 I’m currently doing research in deep learning
 - 📫 Reach me by email: anthony_elie@outlook.com
