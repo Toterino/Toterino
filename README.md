@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Toterino
-- 🌱 I’m currently doing research in deep learning
+- 👋 Hi, I’m @Toterino.
+- 📖 I'm a 21-year-old undergraduate student.
+- 🌱 I’m currently doing research in deep learning.
 - 📫 Reach me by email: anthony_elie@outlook.com
